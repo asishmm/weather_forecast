@@ -14,3 +14,6 @@ User inputs location (latitude and longitude), through a config file. 
 Lambda function runs every 5 minutes, via cron triggered via Cloudwatch 
 It queries two weather APIs for rain predictions and gathers weather details. It also gathers pollution information for the location.
 If both predict rain with high confidence, a Telegram message is sent
+
+
+Complete Article : https://asishmm.medium.com/rain-cloud-predicting-with-cloud-computing-a-personal-weather-pollution-alert-system-built-with-395f023d25d4
