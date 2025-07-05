@@ -1,7 +1,5 @@
 
-Rain Cloud Predicting with Cloud Computing - A Personal Weather/Pollution Alert System Built with Python, AWS Lambda, and Weather APIs
-
-
+*Rain Cloud Predicting with Cloud Computing - A Personal Weather/Pollution Alert System Built with Python, AWS Lambda, and Weather APIs*
 
 
 What You'll Need
